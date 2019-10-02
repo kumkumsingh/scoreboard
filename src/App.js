@@ -10,6 +10,7 @@ function App() {
       <Title content = 'This is new MyScoreBoard'/>
       <main>
         <Scoreboard/>
+        
       </main>
     </div>
   );
